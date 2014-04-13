@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <object class="java.util.Vector"> 
+  <void method="add"> 
+   <array class="java.lang.String" length="7"> 
+    <void index="0"> 
+     <string>Grafica</string> 
+    </void> 
+    <void index="1"> 
+     <string>Datos</string> 
+    </void> 
+    <void index="2"> 
+     <string>Linea</string> 
+    </void> 
+    <void index="3"> 
+     <string>Area</string> 
+    </void> 
+    <void index="4"> 
+     <string>Barra</string> 
+    </void> 
+    <void index="5"> 
+     <string>Pastel</string> 
+    </void> 
+    <void index="6"> 
+     <string>Serie</string> 
+    </void> 
+   </array> 
+  </void> 
+  <void method="add"> 
+   <array class="java.lang.String" length="8"> 
+    <void index="0"> 
+     <string>inicio</string> 
+    </void> 
+    <void index="1"> 
+     <string>calcular</string> 
+    </void> 
+    <void index="2"> 
+     <string>agregar</string> 
+    </void> 
+    <void index="3"> 
+     <string>modificar</string> 
+    </void> 
+    <void index="4"> 
+     <string>muestra</string> 
+    </void> 
+    <void index="5"> 
+     <string>representar</string> 
+    </void> 
+    <void index="6"> 
+     <string>eliminar</string> 
+    </void> 
+    <void index="7"> 
+     <string>fin</string> 
+    </void> 
+   </array> 
+  </void> 
+  <void method="add"> 
+   <array class="java.lang.String" length="5"> 
+    <void index="0"> 
+     <string>:</string> 
+    </void> 
+    <void index="1"> 
+     <string>)</string> 
+    </void> 
+    <void index="2"> 
+     <string>(</string> 
+    </void> 
+    <void index="3"> 
+     <string>]</string> 
+    </void> 
+    <void index="4"> 
+     <string>[</string> 
+    </void> 
+   </array> 
+  </void> 
+  <void method="add"> 
+   <array class="java.lang.String" length="7"> 
+    <void index="0"> 
+     <string>*</string> 
+    </void> 
+    <void index="1"> 
+     <string>/</string> 
+    </void> 
+    <void index="2"> 
+     <string>+</string> 
+    </void> 
+    <void index="3"> 
+     <string>-</string> 
+    </void> 
+    <void index="4"> 
+     <string>%</string> 
+    </void> 
+    <void index="5"> 
+     <string>=</string> 
+    </void> 
+    <void index="6"> 
+     <string>,</string> 
+    </void> 
+   </array> 
+  </void> 
+ </object> 
+</java> 

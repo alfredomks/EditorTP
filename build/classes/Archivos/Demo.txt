@@ -1,0 +1,11 @@
+[
+  Datos datos1=Datos():
+  agregar(datos1,"Categoria 1"):
+  Grafica g1=Grafica("Tipo grafica",datos1):
+  representar(g1):
+  representar (12223343):
+  eliminar(datos1,"Categoria 1"):
+]fin
+
+
+

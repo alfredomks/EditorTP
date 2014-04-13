@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_07" class="java.beans.XMLDecoder"> 
+ <array class="[Ljava.lang.Object;" length="9"> 
+  <void index="0"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>reservada1</string> 
+    </void> 
+    <void index="1"> 
+     <object id="Color0" class="java.awt.Color"> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="1"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>reservada2</string> 
+    </void> 
+    <void index="1"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="2"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>operador</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>200</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="3"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>limitador</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="4"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>numero</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>21</int> 
+      <int>173</int> 
+      <int>21</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="5"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>texto</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>128</int> 
+      <int>128</int> 
+      <int>128</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="6"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>error</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="7"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>variable</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>175</int> 
+      <int>175</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+  <void index="8"> 
+   <array class="java.lang.Object" length="5"> 
+    <void index="0"> 
+     <string>normal</string> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="3"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void index="4"> 
+     <boolean>false</boolean> 
+    </void> 
+   </array> 
+  </void> 
+ </array> 
+</java> 
